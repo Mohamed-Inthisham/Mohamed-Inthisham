@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed inthisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-inthisham-685164284" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed inthisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inthisham" src="www.linkedin.com/in/mohamed-inthisham-685164284" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohamed inthisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed inthisham" height="30" width="40" /></a>
 <a href="https://fb.com/mohomad.inthisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohomad.inthisham" height="30" width="40" /></a>
 <a href="https://instagram.com/i_blvck.devil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_blvck.devil" height="30" width="40" /></a>
