@@ -50,7 +50,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-inthisham&" alt="mohamed-inthisham" /></p> -->
 
-## My Skill Set  
+## My Skills  
 <table><tr><td valign="top" width="33%">
   
 ### Languages :  
