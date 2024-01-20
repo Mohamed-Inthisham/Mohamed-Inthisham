@@ -1,6 +1,8 @@
 <p  align="center" ><img alt="Coding" width="80%" height="300px" border-radius="10px" src="https://github.com/Mohamed-Inthisham/Mohamed-Inthisham/blob/ec158cc554cc47bb833d9963a20cde6411e8c9b1/stack.gif"></p>
 <h1 align="center">Hi 👋, I'm Mohamed Inthisham</h1>
-<h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=2000&color=0CF740&vCenter=true&random=false&width=435&lines=A+passionate+Full-Stack+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=2000&color=0CF740&vCenter=true&random=false&width=435&lines=A+passionate+Full-Stack+developer+from+Sri+Lanka)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-inthisham&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-inthisham" /> </p>
 
@@ -60,5 +62,5 @@
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=Mohamed-Inthisham&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=2EF762&random=false&width=435&lines=A+passionate+Full-Stack+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
+
 
