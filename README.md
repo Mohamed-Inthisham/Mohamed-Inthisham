@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Spring boot HR Employee Management Project**
 
-- 🌱 I’m currently learning **springboot/react**
+- 🌱 I’m currently learning **angular/c#/.net**
 
 - 💬 Ask me about **JAVA/SPRINGBOOT/REACT/DOCKER/JAVA SCRIPT/KOTLIN/MYSQL/HTML/CSS**
 
